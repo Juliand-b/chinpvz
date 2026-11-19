@@ -1,0 +1,11 @@
+# .gitignore
+build/
+out/
+*.exe
+*.pdb
+.vscode/
+.vs/
+crash.txt
+
+Export/
+assets/base
